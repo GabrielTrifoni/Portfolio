@@ -1,0 +1,23 @@
+main {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+
+main .home {
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+main .home .name {
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+
+main .home .desc {
+  font-size: 1.8rem;
+  margin-bottom: 6rem;
+}
+
